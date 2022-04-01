@@ -29,4 +29,5 @@ $GLOBALS['WP_Debugger_Plugins'] = [
     "filester",
     "wp-optimize",
     "blackbox-debug-bar",
+    "wp-maximum-upload-file-size",
 ];
